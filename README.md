@@ -1,4 +1,4 @@
-## Hi there 👋 Donald here :bowtie:, <code>Hello World!</code> 
+## Hi there 👋 Lemmy here! :bowtie:, <code>Hello World!</code> 
 __*Full-Stack Developer*__ and __*QA Automation Developer*__ . 
 
 ## 🤝 Connect with me:
